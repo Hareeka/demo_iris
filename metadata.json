@@ -1,0 +1,7 @@
+{
+  "name": "Copy of IRIS - Emotion AI",
+  "description": "An adaptive web platform that changes its interface and suggestions based on your facial emotions and interests using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
